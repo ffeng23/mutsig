@@ -89,7 +89,7 @@ renv::init()
 renv::restore()
 ```
 
-## example run
+## Example run
 
 NOte: i have already tested the pipeline with the BRCA dataset and it works fine.
 
